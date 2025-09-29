@@ -1,0 +1,23 @@
+{
+  "name": "banana-zoom",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "^0.7.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@tailwindcss/browser": "^4.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
